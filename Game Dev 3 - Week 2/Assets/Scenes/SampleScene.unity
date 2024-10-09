@@ -5773,8 +5773,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5a19379118b2cb4caec1f65a41a64de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gunScriptableObjects: []
-  activeScriptableObject: {fileID: 0}
+  gunScriptableObjects:
+  - {fileID: 11400000, guid: 9b13215d18d85b94e8f10228dde412ea, type: 2}
+  activeScriptableObject: {fileID: 11400000, guid: 9b13215d18d85b94e8f10228dde412ea, type: 2}
 --- !u!1 &1237520552
 GameObject:
   m_ObjectHideFlags: 0
